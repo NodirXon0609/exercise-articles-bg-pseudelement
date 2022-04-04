@@ -176,7 +176,7 @@ img {
 
 .item-latest-videos-img {
   width: 160px;
-  height: auto;
+  height: 90px;
   border-radius: 4px;
   object-fit: cover;
 }
@@ -186,6 +186,7 @@ img {
 }
 .item-latest-videos-heading {
   padding-top: 0;
+  margin-top: 0;
   margin-bottom: 4px;
   font-family: "Bebas Neue", "Open Sans Condensed", "Arial", sans-serif;
   font-size: 18px;
