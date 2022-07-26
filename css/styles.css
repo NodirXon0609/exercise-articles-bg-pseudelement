@@ -260,6 +260,7 @@ img {
   font-weight: 700;
   line-height: normal;
   background-color: #1e90ff;
+  white-space: nowrap;
   color: #fff;
   cursor: pointer;
   transition: background-color 0.5s ease;
