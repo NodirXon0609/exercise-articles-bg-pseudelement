@@ -99,6 +99,7 @@ img {
   display: inline-block;
   font-family: "Bebas Neue", "Roboto Condensed", "Arial", sans-serif;
   background-color: #1e90ff;
+  white-space: nowrap;
   color: #fff;
   text-decoration: none;
   text-transform: uppercase;
